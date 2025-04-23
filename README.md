@@ -64,10 +64,10 @@ Implemented Power BI Bookmarks for seamless transitions between pages such as Ov
 Prioritized a clean layout, intuitive visuals, and responsive interactivity to ensure accessibility and usability for both business users and analysts.
 
 ## Dataset Reference
-You can refer to the dataset used in this project from my GitHub repository or directly access it via Kaggle: https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
+You can refer to the dataset used in this project from my GitHub repository or directly access it via Kaggle: [Customer Personality Analysis Dataset](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis)
 
 ## About Me
-I'm passionate about data analysis and visualization, with a focus on delivering actionable insights through intuitive dashboards. Connect with me on https://www.linkedin.com/in/rishabh-jain-b6b420286/ to collaborate or discuss more projects.
+I'm passionate about data analysis and visualization, with a focus on delivering actionable insights through intuitive dashboards. Connect with me on [LinkedIn](https://www.linkedin.com/in/rishabh-jain-b6b420286/) to collaborate or discuss more projects.
 
 ## License
 This project is open-source and available for educational and non-commercial purposes. Feel free to fork and modify the repository as needed.
